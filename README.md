@@ -72,8 +72,8 @@ cyril_cadesina:
 
 - 🤝 **Collaboration**: Building enterprise-grade cloud infrastructure solutions
 - 🧠 **Knowledge Exchange**: Learning DevOps best practices from the community
-- 🚀 **Innovation**: Working on projects that leverage Azure's full potential
-- ☕ **Coffee Chats**: Always up for discussing the latest in Azure, Terraform, or automation!
+- 🚀 **Innovation**: Working on projects that leverage Azure's full potential and pushes the boundaries of what's possible in the cloud
+- ☕ **Coffee Chats**: Always up for discussing the latest in Azure, Citrix, Terraform, or automation!
 
 ---
 
