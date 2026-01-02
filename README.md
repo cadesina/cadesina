@@ -35,6 +35,7 @@ cyril_cadesina:
 ### ☁️ **Cloud Platforms**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Citrix](https://img.shields.io/badge/Citrix-00A82D?style=for-the-badge&logo=citrix&logoColor=white)
 
 ### 🏗️ **Infrastructure as Code**
 
