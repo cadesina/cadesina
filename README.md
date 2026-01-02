@@ -15,8 +15,8 @@
 
 ```yaml
 cyril_cadesina:
-  role: "Cloud & DevOps Engineer"
-  location: "Birmingham, UK 🇬🇧"
+  role: "Techical Architect"
+  location: "Birmingham, UK"
   current_focus: "Azure Infrastructure as Code Alchemy"
   coffee_consumption: "2+ cups daily...so far ☕"
   deployment_style: "Smooth as butter, strong as espresso"
