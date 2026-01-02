@@ -58,8 +58,8 @@ cyril_cadesina:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CadesCloudSolutions&repo=azure-s2s-vpn-tf&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/CadesCloudSolutions/azure-s2s-vpn-tf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CadesCloudSolutions&repo=voting-app&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/CadesCloudSolutions/voting-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CadesCloudSolutions&repo=azure-s2s-vpn-tf&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=0)](https://github.com/CadesCloudSolutions/azure-s2s-vpn-tf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CadesCloudSolutions&repo=voting-app&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=0)](https://github.com/CadesCloudSolutions/voting-app)
 
 </div>
 
