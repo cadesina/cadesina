@@ -30,7 +30,7 @@ cyril_cadesina:
 - 🤖 **Automation Potions**: Crafting CI/CD pipelines with manual controls and approval gates
 - 📚 **Learning Quest**: Diving deep into enterprise DevOps patterns and best practices
 
-## 🛠️ **My Magical Arsenal**
+## 🛠️ **Powered By**
 
 ### ☁️ **Cloud Platforms**
 
