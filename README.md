@@ -90,4 +90,4 @@ cyril_cadesina:
 
 ---
 
-⚡ **Fun Fact**: I once set up a GitHub Actions workflow at midnight that automatically triggers on manual input - the power of workflow_dispatch and coffee! 🧙‍♂️☕
+⚡ **Fun Fact**: I've deleted more Azure resource groups by accident than I'd like to admit... `terraform destroy` is both my best friend and worst enemy! 💀☁️
