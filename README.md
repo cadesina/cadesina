@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;Azure+Infrastructure+Specialist;Building+cloud+solutions+with+Terraform;Turning+coffee+into+infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;Azure+%26+Citrix+Infrastructure+Specialist;Building+cloud+solutions+with+Terraform;Turning+coffee+into+infrastructure)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,9 +16,9 @@
 ```yaml
 cyril_cadesina:
   role: "Cloud & DevOps Engineer"
-  location: "London, UK 🇬🇧"
+  location: "Birmingham, UK 🇬🇧"
   current_focus: "Azure Infrastructure as Code Alchemy"
-  coffee_consumption: "5+ cups daily ☕"
+  coffee_consumption: "2+ cups daily...so far ☕"
   deployment_style: "Smooth as butter, strong as espresso"
   fun_fact: "I turn coffee into infrastructure code at a 1:1 ratio ☕"
 ```
