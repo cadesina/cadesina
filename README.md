@@ -15,7 +15,7 @@
 
 ```yaml
 cyril_cadesina:
-  role: "Techical Architect"
+  role: "Technical Architect"
   location: "Birmingham, UK"
   current_focus: "Azure Infrastructure as Code Alchemy"
   coffee_consumption: "2+ cups daily...so far ☕"
