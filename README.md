@@ -54,21 +54,6 @@ cyril_cadesina:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-## 📊 **Spell-casting Statistics**
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cadesina&theme=tokyonight-duo&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Cyril's GitHub stats](https://github-readme-stats.vercel.app/api?username=cadesina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cadesina&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 ## 🌟 **Featured Projects**
 
 <div align="center">
