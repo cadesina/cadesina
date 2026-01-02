@@ -64,8 +64,8 @@ cyril_cadesina:
 
 ## 🤝 **Let's Connect & Collaborate**
 
-- 💼 **LinkedIn**: [Connect with me professionally](https://linkedin.com/in/yourprofile)
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
+- 💼 **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/cyril-adesina-a769a3182/)
+- 📧 **Email**: [cyril-adesina@hotmail.co.uk](mailto:cyril-adesina@hotmail.co.uk)
 - 💬 **Discord**: Always ready to chat about cloud architecture!
 
 ## 🎯 **What I'm Looking For**
